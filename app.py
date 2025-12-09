@@ -20,7 +20,7 @@ st.set_page_config(
 
 st.markdown(
     "<h2 style='text-align:center;'>🌐 AI Translation Studio</h2>"
-    "<p style='text-align:center;'>Powered by Google Gemini • Stateless Translation</p>",
+    "<p style='text-align:center;'>Powered by Groq • Stateless Translation</p>",
     unsafe_allow_html=True,
 )
 
